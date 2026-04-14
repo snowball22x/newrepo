@@ -1,0 +1,15 @@
+# PyInstaller build artifacts
+build/
+dist/
+*.spec
+__pycache__/
+*.pyc
+*.pyo
+
+# Runtime files
+recorder.log
+Recordings/
+
+# FFmpeg binary (too large for git; download separately)
+ffmpeg.exe
+ffprobe.exe

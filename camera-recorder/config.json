@@ -1,0 +1,15 @@
+{
+  "camera_name": "Integrated Camera",
+  "output_folder": "C:\\Videos\\Recordings",
+  "schedules": [
+    {
+      "start": "12:20",
+      "end": "13:20"
+    }
+  ],
+  "video_settings": {
+    "resolution": "1280x720",
+    "framerate": 30,
+    "crf": 23
+  }
+}
